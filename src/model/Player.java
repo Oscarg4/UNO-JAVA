@@ -20,6 +20,10 @@ public class Player {
 		this.victories = victories;
 	}
 
+	public Player(int playerUser, String playerPassword) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public int getId() {
 		return id;
 	}
